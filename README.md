@@ -34,3 +34,8 @@ energy sources.
 
 Ridge Regression (best trade-off between performance and
 interpretability)
+## Contributors
+This project was developed by:
+
+- Ahmed Gaabi ([ahmed10420](https://github.com/ahmed10420))
+- Mouaffak Yassine Haddar ([MouaffakYassineHaddar](https://github.com/MouaffakYassineHaddar))
